@@ -15,15 +15,9 @@ except ImportError:
 
 import tweepy
 
-ACCESS_TOKEN = '1116667192110669824-xHeFa1Du1m8TiRkb3Q40LZAAr5WgIT'
-ACCESS_SECRET = 'AHuW5rsw5yXXXiQuqL1YDWg2pmq8pf1crnAJjPLtskzRL'
-CONSUMER_KEY = '8nQYEOClgrE1I0ZtCMCwjrzuH'
-CONSUMER_SECRET = 'tcRF9W1VChTjJ2Cu6MzuY8hJNEa3UMAZ94CCsakGovtU17ZtLg'
 
-# Setup tweepy to authenticate with Twitter credentials:
 
-auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
+
 
 api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True, compression=True)
 
