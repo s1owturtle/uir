@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "arctic-operand-238808",
-  "private_key_id": "f2fd5351d864fa672c379d78b2ba27bc422d84ce",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCnmgMizT9VxOY\n9t9SUGLxH8dvJzlxrvkzkmxKSgEqU3U8DYdxhNDd/xHoP6H+Epn0HSSm9e9DpBv+\nQRlIS+MRT9AEdasF0nmcdgYT3xhFAkaN60FOsqBbslvg5ga9DPSgpY89qL+MNjKl\nfjzAOMGguXyPyMlLbdMo19r2h6LmQyYxq0cPVjIjkQM66TJadsbr2XKzBHSLIFUS\n1BpD6W1M5T7Q9e479Guj/RR3Qn333/sKNJ/zRvggHRWo1yK0bSfzq/hE3pS2RfwC\ng4SzLmo2BrvEf5Z5E1CMRnSixINki4YiePtwmAVN2lqi2gT8Gw7QizUtvfSv0QRP\npjgiQUAxAgMBAAECggEAIaVFE7YVSR7+slkrro1bLZhy4BKF6dN4HaRYuFcm8GxR\nPjqQid2ORnLMY7xsgwIwP3WyWnL2FFmQxVn3xvnnnZyQt9Sn5m/GunflARZ2maeV\nDv/24GYdNv0UyUK7M3/D4un8Y4qC4viTtOyoEAs/3kty72Ck/DdWZB89KZW1Yd04\ndReMSwsFV4RhgONATla6Th85Q8cL6DmEbfYZF7bYeRSrJbnxVwUgv4KpIEdjfYtn\nzoU8/znDIkn/IJy16WinkzqEDct8bSB5eTxL0sdH4EtLhZ5Rm8YkFejSFdELcXxc\n44oWb8fHIPPS11XK/JAiIqPMtMRQg6BPAlWuhKCLSQKBgQD2ZQr/1b94Q+iHvcQp\n7OMFmPil+FI2HemE+/NH1WCclvFqpgpcUENtl7SYQIknxil8++Ln0QvJpPaUsT+2\nODOO8K4J7ZD4WAO1MnyOkSxmcTLrRUveZ7oLIBE74tkfASNZrDyFIcQtIwaQkDWP\nBGCTSZqkDDfwkqfh+NZvCbFLdwKBgQDKNKcdoxPB58DcnkBvppVSf86xRscJzAkF\nVa4YY8fZy6m2YPFI9m+bp8titJxro2Pa4JvXZQEmWIJu1RH3cOotU750o1KfM4jC\nUqF8jFB+mq8f3+lmOh2UJGGB/OZwICs/2bjTLQVOgLYmR2jkuEG4PqM3gcEviuh0\nBxTQ87VrlwKBgQDBWpegHjesA/ZlF0jp8ahRyzJM5Cp3p0+KeUD3fP3cxCLdI0F8\nIcxYIzWoSPSYzsvd9bihXA3ZBmguVU3/C+mB4WNiDRi3mjIGroDKTChAl9JyiCW6\neUGo21hK24Cw8O6xvxSbEN1m4laTeWdePPwgeSEuXRxE4IF4NhLoff2wjwKBgArd\n3YVIOE2ZaNHyZ0AY0bmHSNJaHWQ3ZNy2iA6jfiAEQ/CbMRxcsg7Ja7K4Rhe6xikD\nHRzsPq2S4B+Yr8h+dvdMotWd2VjY6iaXTjplSAYlxfeOjvqBcQl/EwZrUu7/q5NY\n3gfrSXe4jxFrkQWJqW5/X0IiZQFrE6b4onPARSWtAoGAI4ei5LPr5u95oFILrYxm\nfoyiGljHHRUwrLsaw09AJC/Ylt0SHcEiqcFeqL92g+4End57h623+9xCtf8vwvv8\njDGm0aKm597zdx4HLwbzUBBu/KkSCNI2FD2yfRzVLepunLA8eGym2l9L+wNi/CGI\nyobh5TWAH63oMNZJ/VAf0YA=\n-----END PRIVATE KEY-----\n",
-  "client_email": "cogitivemap@arctic-operand-238808.iam.gserviceaccount.com",
-  "client_id": "105906126044337828594",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cogitivemap%40arctic-operand-238808.iam.gserviceaccount.com"
-}
+
